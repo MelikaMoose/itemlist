@@ -78,6 +78,12 @@
     "version": "0.8.1"
   },
   {
+    "author": "Oskar Potocki, XeoNovaDan, Orion, Kikohi, Taranchuk, Sarg Bjornson and Erdelf",
+    "name": "Vanilla Expanded Framework",
+    "steamId": "2023507013",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "Kikohi",
     "name": "Better ground-penetrating scanner",
     "steamId": "2809972387",
@@ -138,6 +144,18 @@
     "version": null
   },
   {
+    "author": "Roolo and Owlchemist",
+    "name": "Giddy-Up 2",
+    "steamId": "2934245647",
+    "version": "1.4"
+  },
+  {
+    "author": "Oskar Potocki, Kikohi and Helixien",
+    "name": "Vanilla Events Expanded",
+    "steamId": "1938420742",
+    "version": "1.1.0"
+  },
+  {
     "author": "hodlhodl",
     "name": "ToolkitCore",
     "steamId": "2018368654",
@@ -162,32 +180,50 @@
     "version": "6.3.0.0.biotech.b6"
   },
   {
-    "author": "Roolo",
-    "name": "Giddy-up! Core",
+    "author": "Oskar Potocki, Sarg Bjornson and Erin",
+    "name": "Vanilla Races Expanded - Sanguophage",
+    "steamId": "2963116383",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Murmur",
+    "name": "Incident Disabler",
+    "steamId": "2347633285",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "zed_0xff",
+    "name": "CPS: Compact Pawn Storage",
+    "steamId": "2974541112",
+    "version": "1.0.0"
+  },
+  {
+    "author": "Scherub",
+    "name": "Planning Extended",
+    "steamId": "2877392159",
+    "version": "1.9.0"
+  },
+  {
+    "author": "Dubwise",
+    "name": "Dubs Skylights",
+    "steamId": "833899765",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "MrHydralisk",
+    "name": "Pawn Suppression Implants",
+    "steamId": "2883152389",
+    "version": "1.2.3.0"
+  },
+  {
+    "author": "Nephlite and Maxim",
+    "name": "Utility Columns",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Sarg and Owlchemist",
-    "name": "Giddy-Up! Add-on: Animal Saddles",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Roolo",
-    "name": "Giddy-up! Battle Mounts",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Roolo",
-    "name": "Giddy-up! Caravan",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Roolo",
-    "name": "Giddy-up! Ride and Roll",
+    "author": "JangoD'soul",
+    "name": "[JDS] Simple Storage",
     "steamId": null,
     "version": null
   }
